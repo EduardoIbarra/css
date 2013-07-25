@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    paddnig: 0;    
+}
+#primero{
+    background-color: gray;
+}
+#segundo{
+    background-color: green;
+    margin-top: 30px;
+}
+.prueba{
+    color: white;    
+    padding: 15px;
+    width: 300px;
+    margin: 5px;
+    margin-left: 50px;
+}
+#contenedor{
+    background-color: red;
+    padding: 20px;
+    margin: 30px;
+}
+
