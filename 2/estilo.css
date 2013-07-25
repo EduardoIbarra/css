@@ -1,5 +1,18 @@
 #primero{
-    background-color: red;
-    color: white;
-    padding: 20px;
+    background-color: gray;
+}
+#segundo{
+    background-color: green;
+}
+.prueba{
+    color: white;    
+    padding: 15px;
+    display:  inline-block;
+    margin: 10px;
+}
+input[type="text"]{
+    width:200px;    
+}
+#segundo input[type="text"]{
+    height: 50px;
 }
