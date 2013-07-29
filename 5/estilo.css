@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#cabezal{
+    background-color:gray;
+    padding: 15px;
+    width: 100%;
+}
+#sidebar{
+    background-color:red;
+    min-height: 300px;
+    width: 24%;
+    float: left;
+}
+#content{
+    background-color:blue;
+    min-height: 300px;
+    width: 75%;
+    float: right;
+}
